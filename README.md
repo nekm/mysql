@@ -1,6 +1,6 @@
 # mysql
 
-MySQL Sample Database Schema\br
+MySQL Sample Database Schema <br>
 MySQL sample database schema sadrži sljedeće tablice:
 
 Customers: pohranjuje podatke o kupcima.
